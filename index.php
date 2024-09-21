@@ -1,6 +1,10 @@
 <?php
 
+<<<<<<< HEAD
 require 'functions.php';
+=======
+$heading = "Home";
+>>>>>>> origin/0921_DynamicWebApplicationLecture
 
 // Connect to the MySQL database.
 $dsn = "mysql:host=localhost;port=3306;dbname=myapp;user=root;password=Sagemodeforever1!;charset=utf8mb4";
